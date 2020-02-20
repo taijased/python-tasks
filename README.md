@@ -5,7 +5,7 @@
 
 
 
-## Простая работа с экземпляром класса
+## Работа с экземпляром класса
 ```
 tasks = TprogerAndGeekBrainsTasks()
 print(tasks.getCommonAndLongestInText("lorem ipsum dolor sit amet amet amet"))
