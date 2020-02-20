@@ -1,6 +1,6 @@
 # Задачи по Python для начинающих от Tproger и GeekBrains
 
-Для изучения синтаксиса были решены следующие задачи.
+Для ознокомлени синтаксиса Python были решены следующие задачи.
 Все оформил в класс TprogerAndGeekBrainsTasks
 
 
@@ -10,3 +10,6 @@
 tasks = TprogerAndGeekBrainsTasks()
 print(tasks.getCommonAndLongestInText("lorem ipsum dolor sit amet amet amet"))
 ```
+
+## Links
+- [Оригинальная статья](https://tproger.ru/problems/python-3-exercises-for-beginners-geekbrains/)
