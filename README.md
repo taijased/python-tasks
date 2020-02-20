@@ -9,5 +9,4 @@
 ```
 tasks = TprogerAndGeekBrainsTasks()
 print(tasks.getCommonAndLongestInText("lorem ipsum dolor sit amet amet amet"))
-
 ```
